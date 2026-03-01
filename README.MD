@@ -4,7 +4,7 @@ Uma API REST simples para dados de Fórmula 1, construída com Fastify.
 
 ## O que é isso?
 
-Este projeto fornece endpoints para acessar informações sobre times e pilotos da Fórmula 1. Perfeito para aprender sobre APIs, ou como base para algo maior.
+Este projeto fornece endpoints para acessar informações sobre times e pilotos da Fórmula 1.
 
 ## Requisitos
 
